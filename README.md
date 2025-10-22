@@ -142,7 +142,7 @@ Se você quiser contribuir:
 ---
 
 ## Licença  
-Este projeto está licenciado sob a licença **MIT**. V
+Este projeto está licenciado sob a licença **MIT**.
 
 ---
 
