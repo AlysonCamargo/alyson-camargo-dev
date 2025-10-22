@@ -146,15 +146,5 @@ Este projeto está licenciado sob a licença **MIT**.
 
 ---
 
-> **Observação:**  
-> Você pode incluir também um screenshot ou GIF do site logo abaixo para destaque visual, por exemplo:  
->  
-> ```markdown
-> ![Screenshot do site](./public/screenshot.png)  
-> ```  
-> Ou adicionar badges de cobertura, qualidade de código (ex: CodeFactor, SonarCloud), se desejar.
-
----
-
 **Boa codificação!** 🚀  
 Obrigado por visitar meu portfólio.  
