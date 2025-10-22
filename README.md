@@ -1,7 +1,4 @@
 # Alyson Camargo – Site Pessoal & Portfólio  
-[![License: MIT](https://img.shields.io/badge/license-MIT‑blue.svg)](LICENSE)  
-[![Deploy on Vercel](https://img.shields.io/badge/deploy%20on-vercel‑black.svg)](https://vercel.com/new)  
-[![Status](https://img.shields.io/badge/status‑live‑green.svg)](https://alysoncamargo.dev)
 
 > Bem‑vindo ao meu site pessoal! Aqui apresento meus projetos, habilidades, contato profissional e um pouco mais sobre mim.
 
@@ -29,7 +26,7 @@ Este repositório contém o código‑fonte do meu site pessoal/portfólio — d
 ---
 
 ## Demo ao Vivo  
-🔗 [Acesse o site aqui](https://alysoncamargo.dev) (hosted via Vercel)  
+🔗 [Acesse o site aqui](https://alyson-camargo-dev.vercel.app/) (hosted via Vercel)  
 Veja a versão de produção em funcionamento para explorar o layout, animações, temas e navegação.
 
 ---
@@ -111,7 +108,7 @@ Este projeto está preparado para deploy com Vercel e as seguintes etapas típic
 2. Em Vercel, defina o build command (ex: `npm run build`) e a pasta de saída (ex: `dist/` ou conforme `vite.config.ts`).  
 3. Configure variáveis de ambiente (se houver) no painel da Vercel.  
 4. A cada `git push` na branch principal (ex: `main` ou `master`), o Vercel disparará o deploy automático.  
-5. Após o deploy, você terá uma URL como `https://alysoncamargo-dev.vercel.app` ou com domínio customizado, por exemplo, `https://alysoncamargo.dev`.
+5. Após o deploy, você terá uma URL como `https://alyson-camargo-dev.vercel.app/` ou com domínio customizado, por exemplo, `https://alysoncamargo.dev`.
 
 ℹ️ *Dica:* Ative HTTPS, configure domínio personalizado, e use os “Preview Deployments” do Vercel para revisar antes de produção.
 
@@ -145,7 +142,7 @@ Se você quiser contribuir:
 ---
 
 ## Licença  
-Este projeto está licenciado sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a licença **MIT**. V
 
 ---
 
