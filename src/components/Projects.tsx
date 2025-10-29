@@ -60,6 +60,14 @@ const projects = [
     demo: null,
     gradient: "from-secondary to-primary",
   },
+  {
+    name: "3D Art Gallery",
+    description: "Galeria de arte 3D interativa com animações de partículas, rotação, zoom e gerenciamento completo de obras.",
+    tech: ["HTML", "CSS", "JavaScript", "API"],
+    github: "https://github.com/AlysonCamargo/realtime-chat-system",
+    demo: "https://3d-art-gallery.vercel.app/",
+    gradient: "from-secondary to-primary",
+  },
 ];
 
 export const Projects = () => {
